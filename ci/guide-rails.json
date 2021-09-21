@@ -230,16 +230,16 @@
 										"value": "false"
 									},
 									{
-										"name": "consul.joinservers",
-										"value": "((consul.joinservers))"
-									},
-									{
 										"name": "calculi.intermediate.cert",
 										"value": "grsecret:tls.cert"
 									},
 									{
 										"name": "calculi.intermediate.key",
 										"value": "grsecret:tls.key"
+									},
+									{
+										"name": "consul.joinservers",
+										"value": "((consul.joinservers))"
 									}
 								]
 							}
